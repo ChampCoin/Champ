@@ -1,0 +1,9 @@
+Building Champcoin
+
+See doc/readme-qt.rst for instructions on building Champcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Champcoin.
+
+See doc/build-*.txt for instructions on building champcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Champcoin.
